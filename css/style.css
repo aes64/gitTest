@@ -1,3 +1,7 @@
 body {
     margin: 0 auto 400px;
 }
+
+.className {
+    opacity: 0.7;
+}
