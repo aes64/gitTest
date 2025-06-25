@@ -1,4 +1,4 @@
-console.log("2")
+console.log("4")
 
 
 function div(num1, num2) {
